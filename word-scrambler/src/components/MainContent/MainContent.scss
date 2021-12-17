@@ -1,0 +1,7 @@
+.main-content {
+  display: grid;
+  grid-template-rows: 10vh max-content 6rem max-content;
+  grid-template-columns: minmax(25rem, 1fr);
+
+  gap: 1rem;
+} 

@@ -1,0 +1,12 @@
+.explanatory-text {
+  grid-column:  1 / -1;
+
+  height: 6rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+  font-size: 1.7rem;
+}

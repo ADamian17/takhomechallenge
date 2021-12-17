@@ -1,0 +1,17 @@
+.cta {
+  height: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &-btn {
+    width: 10rem;
+    height: 80%;
+
+    font-size: var(--default-font-size);
+
+    background-color: var(--color-next-green);
+    border: none;
+    color: var(--default-color-white);
+  } 
+}
